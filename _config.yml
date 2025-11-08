@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Rugved Mhatre
-tagline: "Rugved Mhatre | Deep Learning, ML, Computer Architecture, DevOps | NYU, Oracle"
-email: rugved.mhatre+web@nyu.edu
+title: Ashutosh Agrawal
+tagline: "Ashutosh Agrawal | AI/ML, GenAI, Full-Stack Development | NYU, STL Digital, LTIMindtree"
+email: ashh.agrawal11@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  "Explore Rugved Mhatre's portfolio showcasing advanced projects in Deep Learning, Machine Learning, and Computer Architecture. Gain insights from his Master's experience at NYU, and discover innovative research and practical applications in the field of AI and technology. Dive into a journey of academic excellence and cutting-edge technological advancements."
+  "Explore Ashutosh Agrawal's portfolio showcasing advanced projects in AI/ML, Generative AI, and Full-Stack Development. Gain insights from his Master's experience at NYU, professional experience at STL Digital and LTIMindtree, and discover innovative research and practical applications in the field of AI and technology."
 url: "https://rugvedmhatre.github.io"
-twitter_username: rugs_mhatre
-github_username: rugvedmhatre
+twitter_username: 
+github_username: 
 minimal_mistakes_skin: default
 search: true
 logo: "/assets/images/logo.jpeg"
@@ -60,37 +60,31 @@ plugins:
   - jekyll-seo-tag
 
 author:
-  name   : "Rugved Mhatre"
+  name   : "Ashutosh Agrawal"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "MS. Computer Engineering @NYU Ex-Oracle"
+  bio    : "MS. Computer Science @NYU | Research Assistant | Ex-STL Digital, LTIMindtree"
   links:
-    - label: "New York City"
+    - label: "New York, NY"
       icon: "fas fa-fw fa-map-marker-alt"
       url: ""
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:rugved.mhatre+web@nyu.edu"
+      url: "mailto:ashh.agrawal11@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/rugved-mhatre/"
+      url: "https://www.linkedin.com/in/ashutosh-agrawal/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rugvedmhatre"
+      url: "https://github.com/ashutoshagrawal"
 
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/rugved-mhatre/"
+      url: "https://www.linkedin.com/in/ashutosh-agrawal/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rugvedmhatre"
-    - label: "Twitter"
-      icon: "fab fa-brands fa-x-twitter"
-      url: "https://x.com/rugs_mhatre"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/therugvedmhatre"
+      url: "https://github.com/ashutoshagrawal"
 
 atom_feed:
   hide: true

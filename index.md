@@ -8,26 +8,34 @@ author_profile: true
 
 Hey there! :wave:
 
-I'm Rugved, a passionate Computer Engineer, Deep Learning enthusiast, and a Graduate from New York University.
+I'm Ashutosh Agrawal, a passionate Computer Scientist, AI/ML enthusiast, and a Master's student at New York University.
 
-With a robust background of over two years in DevOps at Oracle and a Bachelor's degree in Electronics Engineering from the University of Mumbai, my journey in technology has been dynamic and invigorating.
+With a strong background in AI/ML, Generative AI, and Full-Stack Development, I'm currently working as a Research Assistant at NYU where I'm building AI trading agents and ML models. Previously, I've worked as an AI Intern at STL Digital and as a Senior Software Engineer at LTIMindtree (Disney & CitiBank), where I've architected cloud-native solutions, built agentic AI systems, and optimized large-scale data pipelines.
 
 I'm excited to share my experiences, insights, and explorations here!
 
-## I'm Currently Teaching...
-- [NYU K12 STEM Education - Machine Learning]({{ site.url }}{{ site.baseurl }}/machine-learning-summer/)
+## Current Role
+- **Research Assistant at NYU** (Jan 2025 - Present) - Designing AI trading agents using LangChain and Llama 3-Instruct, building ML/DL models with 92% prediction accuracy
 
 ## Here are a few things I have worked on...
-- [Multimodal Sentiment Analysis](https://github.com/rugvedmhatre/Multimodal-Sentiment-Analysis) - This project explores different methodologies, focusing on fusion techniques that integrate information from three modalities (audio, language, vision) to enhance sentiment analysis performance, and the various architectures that employ them. [[Read More]]({{ site.url }}{{ site.baseurl }}/projects/#multimodal-sentiment-analysis)
 
-- [Continual Learning for Autonomous Vehicles](https://github.com/rugvedmhatre/Continual-Learning-for-Autonomous-Vehicles) - Applying the continual learning framework to Autonomous Vehicle setting: predicting steering angles based on the captured images. Experimented with various approaches - Elastic Weight Consolidation, Experience Replay and Temporal Consistency Regularization. [[Read more]]({{ site.url }}{{ site.baseurl }}/projects/#continual-learning-for-autonomous-vehicles)
+- [AI Trading Agent]({{ site.url }}{{ site.baseurl }}/projects/#ai-trading-agent) - Designed an AI trading agent using LangChain and Llama 3-Instruct to automate screening, ranking, and backtesting undervalued stocks, integrating reinforcement learning for adaptive investment decisions. Achieved 92% prediction accuracy on 60+ years of financial data. [[Read More]]({{ site.url }}{{ site.baseurl }}/projects/#ai-trading-agent)
 
-- [Vector Processor Simulator](https://github.com/rugvedmhatre/Vector-Timing-Simulator) - A Python-based Vector Processor (VMIPS) functional and performance simulator evaluated on dot product, fully connected layer, and convolutional layer test bench. [[Read more]]({{ site.url }}{{ site.baseurl }}/projects/#vector-processor-simulator)
+- [Agentic AI Resume Intelligence System]({{ site.url }}{{ site.baseurl }}/projects/#resume-intelligence-system) - Built an Agentic AI Resume Intelligence System (Llama 3-70B / GPT-4 + LangChain) to parse and match resumes to JDs, automating screening and boosting hiring accuracy by 90%. Engineered LangGraph + FastAPI multi-agent workflows with FAISS retrieval. [[Read More]]({{ site.url }}{{ site.baseurl }}/projects/#resume-intelligence-system)
 
-- [ResNets](https://github.com/rugvedmhatre/ResNet) - Explored ResNet Models trained to classify images on CIFAR-10 dataset. Finetuned hyperparameters, experimented with ResNet depths and strategies like dropout layers and learning rate schedulers achieving a test accuracy of 95.37%. [[Read more]]({{ site.url }}{{ site.baseurl }}/projects/#resnets)
+- [CodeSensei – Autonomous Code Reviewer]({{ site.url }}{{ site.baseurl }}/projects/#codesensei) - Developed CodeSensei, an autonomous code-review agent using GPT-4 and AST parsing to detect logic flaws and propose optimized patches, reducing manual review effort by 55%. [[Read More]]({{ site.url }}{{ site.baseurl }}/projects/#codesensei)
 
-- [Semantic Image Segmentation for Autonomous Vehicles](https://github.com/rugvedmhatre/autonomous-vehicle) - This project utilizes semantic image segmentation to enhance autonomous vehicle perception, accurately identifying and segmenting critical elements like drivable surfaces. By leveraging a U-Net model trained on the CARLA dataset, the project achieves an impressive 96% accuracy [[Read more]]({{ site.url }}{{ site.baseurl }}/projects/#semantic-image-segmentation-for-autonomous-vehicles)
+- [Yuka Food & Cosmetic Scanner]({{ site.url }}{{ site.baseurl }}/projects/#yuka-scanner) - Built an Agentic AI layer over Yuka using RAG, vector search, and GPT-4 to autonomously analyze ingredients and suggest safer alternatives, reducing manual lookups by 65%. [[Read More]]({{ site.url }}{{ site.baseurl }}/projects/#yuka-scanner)
+
+## Education
+- **New York University** - Master's in Computer Science (3.9 GPA) - Sep 2024 - May 2026
+- **University of Mumbai** - Bachelor's in Engineering – Information Technology (3.6 GPA) - Aug 2017 - Jul 2021
+
+## Certifications
+- Oracle Cloud Infrastructure 2025 Certified Data Science Professional
+- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
 
 ## We can get in touch on...
-- :necktie: [LinkedIn](https://www.linkedin.com/in/rugved-mhatre/) - If you've got a short question or would like to connect, drop a message and I'll get back to you soon.
-- :email: [Email](mailto:rugved.mhatre+web@nyu.edu) - If it's a longer thing, feel free to email me!
+- :necktie: [LinkedIn](https://www.linkedin.com/in/ashutosh-agrawal/) - If you've got a short question or would like to connect, drop a message and I'll get back to you soon.
+- :email: [Email](mailto:ashh.agrawal11@gmail.com) - If it's a longer thing, feel free to email me!
+- :computer: [GitHub](https://github.com/ashutoshagrawal) - Check out my code and projects!

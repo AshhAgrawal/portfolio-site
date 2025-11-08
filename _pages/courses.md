@@ -1,9 +1,9 @@
 ---
 permalink: /courses/
 title: "Courses"
-seo_title: Rugved Mhatre | Courses
-seo_description: A concise overview of the courses I have studied from NYU and instructed at NYU.
-excerpt: A concise overview of the courses I have studied from NYU and instructed at NYU.
+seo_title: Ashutosh Agrawal | Courses
+seo_description: A concise overview of the courses I have studied from NYU.
+excerpt: A concise overview of the courses I have studied from NYU.
 ---
 
 ## NYU
@@ -17,9 +17,6 @@ excerpt: A concise overview of the courses I have studied from NYU and instructe
 - [Deep Learning]({{ site.url }}{{ site.baseurl }}/machine-learning/deep-learning-nyu-course/) by Chinmay Hegde
 - [Parallel and Customized Computer Architecture]({{ site.url }}{{ site.baseurl }}/computer-architecture/pcca-course) by Brandon Reagen
 
-### Summer 2024 (Teaching)
-- [NYU K12 STEM Education - Machine Learning]({{ site.url }}{{ site.baseurl }}/machine-learning-summer/) by Rugved Mhatre, Akshath Mahajan
-
 ### Fall 2024
 - [High Performance Machine Learning]({{ site.url }}{{ site.baseurl }}/machine-learning/hpml-course/) by Parijat Dube and Zehra Sura
 - [Advanced Topics in Computer Vision]({{ site.url }}{{ site.baseurl }}/machine-learning/acv-course/) by David Fouhey
@@ -27,9 +24,6 @@ excerpt: A concise overview of the courses I have studied from NYU and instructe
 
 ### Spring 2025
 - [Data Science for Business]({{ site.url }}{{ site.baseurl }}/machine-learning/dsb-course/) by Chris Volinsky
-
-### Summer 2025 (Teaching)
-- [NYU K12 STEM Education - Machine Learning]({{ site.url }}{{ site.baseurl }}/machine-learning-summer/) by Rugved Mhatre, Akshath Mahajan
 
 ## Coursera
 - [Self-Driving Car Specialization](https://coursera.org/share/609c0d5507fe57fa663671f148ec92a9) by University of Toronto [[Course Notes]]({{ site.url }}{{ site.baseurl }}/course-notes/introduction-to-self-driving-cars-course-notes/)
