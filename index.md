@@ -36,6 +36,6 @@ I'm excited to share my experiences, insights, and explorations here!
 - Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
 
 ## We can get in touch on...
-- :necktie: [LinkedIn](https://www.linkedin.com/in/ashutosh-agrawal/) - If you've got a short question or would like to connect, drop a message and I'll get back to you soon.
+- :necktie: [LinkedIn](https://www.linkedin.com/in/ashh3011/) - If you've got a short question or would like to connect, drop a message and I'll get back to you soon.
 - :email: [Email](mailto:ashh.agrawal11@gmail.com) - If it's a longer thing, feel free to email me!
-- :computer: [GitHub](https://github.com/ashutoshagrawal) - Check out my code and projects!
+- :computer: [GitHub](https://github.com/AshhAgrawal) - Check out my code and projects!
