@@ -18,7 +18,7 @@ tagline: "Ashutosh Agrawal | AI/ML, GenAI, Full-Stack Development | NYU, STL Dig
 email: ashh.agrawal11@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   "Explore Ashutosh Agrawal's portfolio showcasing advanced projects in AI/ML, Generative AI, and Full-Stack Development. Gain insights from his Master's experience at NYU, professional experience at STL Digital and LTIMindtree, and discover innovative research and practical applications in the field of AI and technology."
-url: "https://rugvedmhatre.github.io"
+url: "https://ashhagrawal.github.io"
 twitter_username: 
 github_username: 
 minimal_mistakes_skin: default
@@ -72,19 +72,19 @@ author:
       url: "mailto:ashh.agrawal11@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/ashutosh-agrawal/"
+      url: "https://www.linkedin.com/in/ashu3011"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ashutoshagrawal"
+      url: "https://github.com/AshhAgrawal"
 
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/ashutosh-agrawal/"
+      url: "https://www.linkedin.com/in/ashu3011"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ashutoshagrawal"
+      url: "https://github.com/AshhAgrawal"
 
 atom_feed:
   hide: true
