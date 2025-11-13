@@ -10,3 +10,123 @@ $global-font-family : $sans-serif;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// ---- Custom homepage polish ----
+
+// Color tokens
+$accent-color: #6c63ff; // soft indigo accent
+$bg-soft: #f7f9fc;
+
+// Light, subtle background for the whole site
+body {
+  background: linear-gradient(180deg, rgba(108, 99, 255, 0.05), rgba(108, 99, 255, 0) 300px) no-repeat,
+    $bg-soft;
+}
+
+// Make the main page container feel like a card (homepage only)
+.page.home {
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(20, 20, 40, 0.06);
+  overflow: hidden;
+}
+
+// Typography tweaks for better readability (homepage only)
+.page.home .page__content {
+  p {
+    line-height: 1.8;
+    color: mix(#000, #333, 85%);
+  }
+
+  // Hero-ish intro: first two paragraphs
+  > p:first-of-type {
+    font-size: 1.2rem;
+    color: mix(#000, #333, 70%);
+  }
+
+  > p:nth-of-type(2) {
+    font-size: 1.05rem;
+  }
+
+  // Headings with subtle accent underline
+  h2,
+  h3 {
+    position: relative;
+    margin-top: 2.25rem;
+    scroll-margin-top: 80px;
+
+    &::after {
+      content: "";
+      display: block;
+      width: 64px;
+      height: 3px;
+      margin-top: 8px;
+      border-radius: 3px;
+      background: linear-gradient(90deg, $accent-color, lighten($accent-color, 12%));
+    }
+  }
+
+  // Links: clean underline animation + accent on hover
+  a {
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 0% 2px;
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    transition: color 160ms ease, background-size 200ms ease;
+
+    &:hover,
+    &:focus {
+      color: $accent-color;
+      background-size: 100% 2px;
+    }
+  }
+
+  // Lists as tidy “cards” to make sections scannable
+  ul {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+  }
+
+  ul > li {
+    background: #fff;
+    border: 1px solid rgba(20, 20, 40, 0.06);
+    border-left: 4px solid rgba($accent-color, 0.7);
+    border-radius: 10px;
+    padding: 12px 14px;
+    margin: 10px 0;
+    box-shadow: 0 2px 10px rgba(20, 20, 40, 0.05);
+    transition: transform 120ms ease, box-shadow 120ms ease, border-color 120ms ease;
+
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(20, 20, 40, 0.08);
+      border-left-color: $accent-color;
+    }
+
+    // Improve spacing for longer list items (like project descriptions)
+    > a {
+      font-weight: 600;
+    }
+  }
+}
+
+// Make author profile card mesh with the new look
+.sidebar.sticky {
+  .author__avatar img {
+    box-shadow: 0 8px 24px rgba(20, 20, 40, 0.12);
+  }
+}
+
+// Small tweaks for narrow screens
+@media (max-width: 640px) {
+  .page.home .page__content {
+    > p:first-of-type {
+      font-size: 1.12rem;
+    }
+
+    ul > li {
+      padding: 12px;
+    }
+  }
+}
